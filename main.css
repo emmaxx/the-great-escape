@@ -98,6 +98,9 @@ footer {
   body {
     height: 100%;
   }
+    .quiz-container{
+      height: 300px;  
+    }
   .question {
     font-size: 20px;
   }
@@ -105,4 +108,7 @@ footer {
     padding-top: 0;
     margin-top: 40px;
   }
+    button{
+        font-size:14px;
+    }
 }
